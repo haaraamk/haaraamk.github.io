@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kang Haram"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I'm a current student majoring in Applied Statistics at Chung-Ang University. Proficient in utilizing Python and R for data analysis and manipulation, my interests have recently expanded into the realm of deep learning. Motivated by a passion for innovative technologies and algorithms, I am eager to continue learning and applying these skills to foster growth and development in the field."
+  location         : "Seoul, Korea"
+  email            : "haramy1@cau.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "haramy1@cau.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
